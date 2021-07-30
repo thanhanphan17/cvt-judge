@@ -1,0 +1,65 @@
+﻿lekhoa‣reward: 10.00
+reward.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "reward.cpp" -pipe -O2 -s -static -lm -x c++ -o"reward.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom4822\
+Dịch thành công.
+
+lekhoa‣reward‣Test00: 0.50
+Thời gian ≈ 0.017410500 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test01: 0.50
+Thời gian ≈ 0.018201800 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test02: 0.50
+Thời gian ≈ 0.015464700 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test03: 0.50
+Thời gian ≈ 0.016485500 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test04: 0.50
+Thời gian ≈ 0.017172000 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test05: 0.50
+Thời gian ≈ 0.018088700 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test06: 0.50
+Thời gian ≈ 0.017786200 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test07: 0.50
+Thời gian ≈ 0.017826300 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test08: 0.50
+Thời gian ≈ 0.016377500 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test09: 0.50
+Thời gian ≈ 0.017220100 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test10: 0.50
+Thời gian ≈ 0.016130600 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test11: 0.50
+Thời gian ≈ 0.015908200 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test12: 0.50
+Thời gian ≈ 0.040007800 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test13: 0.50
+Thời gian ≈ 0.024213400 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test14: 0.50
+Thời gian ≈ 0.033238900 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test15: 0.50
+Thời gian ≈ 0.019475400 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test16: 0.50
+Thời gian ≈ 0.035089000 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test17: 0.50
+Thời gian ≈ 0.034115400 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test18: 0.50
+Thời gian ≈ 0.125497200 giây
+Kết quả khớp đáp án!
+lekhoa‣reward‣Test19: 0.50
+Thời gian ≈ 0.126409900 giây
+Kết quả khớp đáp án!

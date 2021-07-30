@@ -1,0 +1,35 @@
+﻿phangiabao‣AROWMAX: 10.00
+AROWMAX.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "AROWMAX.cpp" -pipe -O2 -s -static -lm -x c++ -o"AROWMAX.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom52666\
+Dịch thành công.
+
+phangiabao‣AROWMAX‣Test01: 1.00
+Thời gian ≈ 0.032553200 giây
+Kết quả khớp đáp án!
+phangiabao‣AROWMAX‣Test02: 1.00
+Thời gian ≈ 0.031853900 giây
+Kết quả khớp đáp án!
+phangiabao‣AROWMAX‣Test03: 1.00
+Thời gian ≈ 0.030502600 giây
+Kết quả khớp đáp án!
+phangiabao‣AROWMAX‣Test04: 1.00
+Thời gian ≈ 0.024719800 giây
+Kết quả khớp đáp án!
+phangiabao‣AROWMAX‣Test05: 1.00
+Thời gian ≈ 0.032813700 giây
+Kết quả khớp đáp án!
+phangiabao‣AROWMAX‣Test06: 1.00
+Thời gian ≈ 0.034869200 giây
+Kết quả khớp đáp án!
+phangiabao‣AROWMAX‣Test07: 1.00
+Thời gian ≈ 0.040413000 giây
+Kết quả khớp đáp án!
+phangiabao‣AROWMAX‣Test08: 1.00
+Thời gian ≈ 0.043470200 giây
+Kết quả khớp đáp án!
+phangiabao‣AROWMAX‣Test09: 1.00
+Thời gian ≈ 0.279931700 giây
+Kết quả khớp đáp án!
+phangiabao‣AROWMAX‣Test10: 1.00
+Thời gian ≈ 0.592030600 giây
+Kết quả khớp đáp án!

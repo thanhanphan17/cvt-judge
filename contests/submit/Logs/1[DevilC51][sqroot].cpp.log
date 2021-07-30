@@ -1,0 +1,340 @@
+﻿DevilC51‣sqroot: ℱ Dịch lỗi
+sqroot.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "sqroot.cpp" -pipe -O2 -s -static -lm -x c++ -o"sqroot.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom23262\
+sqroot.cpp:2:8: warning: character constant too long for its type
+    tfi='sqroot.inp';
+        ^~~~~~~~~~~~
+sqroot.cpp:3:8: warning: character constant too long for its type
+    tfo='sqroot.out';
+        ^~~~~~~~~~~~
+sqroot.cpp:13:7: error: empty character constant
+    c:='';
+       ^~
+sqroot.cpp:34:7: error: empty character constant
+    b:='';
+       ^~
+sqroot.cpp:52:7: error: empty character constant
+    c:='';
+       ^~
+sqroot.cpp:71:7: error: empty character constant
+    c:='';
+       ^~
+sqroot.cpp:2:4: error: 'tfi' does not name a type
+    tfi='sqroot.inp';
+    ^~~
+sqroot.cpp:3:4: error: 'tfo' does not name a type
+    tfo='sqroot.out';
+    ^~~
+sqroot.cpp:5:1: error: 'type' does not name a type
+ type
+ ^~~~
+sqroot.cpp:8:1: error: 'function' does not name a type; did you mean 'union'?
+ function sub(a,b: sn): sn;
+ ^~~~~~~~
+ union
+sqroot.cpp:9:1: error: 'var' does not name a type; did you mean 'char'?
+ var i, nho, hieu: longint;
+ ^~~
+ char
+sqroot.cpp:10:6: error: found ':' in nested-name-specifier, expected '::'
+     c: sn;
+      ^
+      ::
+sqroot.cpp:10:5: error: 'c' does not name a type
+     c: sn;
+     ^
+sqroot.cpp:11:1: error: 'begin' does not name a type
+ begin
+ ^~~~~
+sqroot.cpp:13:4: error: 'c' does not name a type
+    c:='';
+    ^
+sqroot.cpp:14:4: error: 'nho' does not name a type
+    nho:=0;
+    ^~~
+sqroot.cpp:15:4: error: expected unqualified-id before 'for'
+    for i:=length(a) downto 1 do
+    ^~~
+sqroot.cpp:18:10: error: expected unqualified-id before 'if'
+          if hieu<0 then
+          ^~
+sqroot.cpp:21:16: error: 'nho' does not name a type
+                nho:=1;
+                ^~~
+sqroot.cpp:22:13: error: 'end' does not name a type
+             end
+             ^~~
+sqroot.cpp:24:10: error: 'c' does not name a type
+          c:=chr(hieu+48)+c;
+          ^
+sqroot.cpp:25:7: error: 'end' does not name a type
+       end;
+       ^~~
+sqroot.cpp:26:4: error: expected unqualified-id before 'while'
+    while (length(c)>1) and (c[1]='0') do delete(c,1,1);
+    ^~~~~
+sqroot.cpp:27:8: error: expected constructor, destructor, or type conversion before '(' token
+    exit(c);
+        ^
+sqroot.cpp:28:1: error: 'end' does not name a type
+ end;
+ ^~~
+sqroot.cpp:30:1: error: 'function' does not name a type; did you mean 'union'?
+ function divk(a: sn; k: longint): sn;
+ ^~~~~~~~
+ union
+sqroot.cpp:30:23: error: found ':' in nested-name-specifier, expected '::'
+ function divk(a: sn; k: longint): sn;
+                       ^
+                       ::
+sqroot.cpp:30:22: error: 'k' does not name a type
+ function divk(a: sn; k: longint): sn;
+                      ^
+sqroot.cpp:31:1: error: 'var' does not name a type; did you mean 'char'?
+ var b: sn;
+ ^~~
+ char
+sqroot.cpp:32:5: error: 'i' does not name a type
+     i, du: longint;
+     ^
+sqroot.cpp:33:1: error: 'begin' does not name a type
+ begin
+ ^~~~~
+sqroot.cpp:35:4: error: 'du' does not name a type
+    du:=0;
+    ^~
+sqroot.cpp:36:4: error: expected unqualified-id before 'for'
+    for i:=1 to length(a) do
+    ^~~
+sqroot.cpp:39:10: error: 'b' does not name a type
+          b:=b+chr(du div k+48);
+          ^
+sqroot.cpp:40:10: error: 'du' does not name a type
+          du:=du mod k;
+          ^~
+sqroot.cpp:41:7: error: 'end' does not name a type
+       end;
+       ^~~
+sqroot.cpp:42:4: error: expected unqualified-id before 'while'
+    while (length(b)>1) and (b[1]='0') do delete(b,1,1);
+    ^~~~~
+sqroot.cpp:43:8: error: expected constructor, destructor, or type conversion before '(' token
+    exit(b);
+        ^
+sqroot.cpp:44:1: error: 'end' does not name a type
+ end;
+ ^~~
+sqroot.cpp:46:1: error: 'function' does not name a type; did you mean 'union'?
+ function add(a, b: sn): sn;
+ ^~~~~~~~
+ union
+sqroot.cpp:47:1: error: 'var' does not name a type; did you mean 'char'?
+ var c: sn;
+ ^~~
+ char
+sqroot.cpp:48:5: error: 'i' does not name a type
+     i, nho, tong: longint;
+     ^
+sqroot.cpp:49:1: error: 'begin' does not name a type
+ begin
+ ^~~~~
+sqroot.cpp:51:4: error: expected unqualified-id before 'while'
+    while length(b)<length(a) do b:='0'+b;
+    ^~~~~
+sqroot.cpp:52:4: error: 'c' does not name a type
+    c:='';
+    ^
+sqroot.cpp:53:4: error: 'nho' does not name a type
+    nho:=0;
+    ^~~
+sqroot.cpp:54:4: error: expected unqualified-id before 'for'
+    for i:=length(a) downto 1 do
+    ^~~
+sqroot.cpp:57:10: error: 'c' does not name a type
+          c:=chr(tong mod 10+48)+c;
+          ^
+sqroot.cpp:58:10: error: 'nho' does not name a type
+          nho:=tong div 10;
+          ^~~
+sqroot.cpp:59:7: error: 'end' does not name a type
+       end;
+       ^~~
+sqroot.cpp:60:4: error: expected unqualified-id before 'if'
+    if nho>0 then c:='1'+c;
+    ^~
+sqroot.cpp:61:8: error: expected constructor, destructor, or type conversion before '(' token
+    exit(c);
+        ^
+sqroot.cpp:62:1: error: 'end' does not name a type
+ end;
+ ^~~
+sqroot.cpp:64:1: error: 'function' does not name a type; did you mean 'union'?
+ function mul(a, b: sn): sn;
+ ^~~~~~~~
+ union
+sqroot.cpp:65:1: error: 'var' does not name a type; did you mean 'char'?
+ var c: sn;
+ ^~~
+ char
+sqroot.cpp:66:5: error: 'cn' does not name a type
+     cn, i, nho, tong, j, k: longint;
+     ^~
+sqroot.cpp:67:1: error: 'begin' does not name a type
+ begin
+ ^~~~~
+sqroot.cpp:69:4: error: expected unqualified-id before 'while'
+    while length(a)<cn do a:='0'+a;
+    ^~~~~
+sqroot.cpp:70:4: error: expected unqualified-id before 'while'
+    while length(b)<cn do b:='0'+b;
+    ^~~~~
+sqroot.cpp:71:4: error: 'c' does not name a type
+    c:='';
+    ^
+sqroot.cpp:72:4: error: 'nho' does not name a type
+    nho:=0;
+    ^~~
+sqroot.cpp:73:4: error: expected unqualified-id before 'for'
+    for i:=0 to cn-1 do
+    ^~~
+sqroot.cpp:76:10: error: expected unqualified-id before 'for'
+          for j:=0 to i do
+          ^~~
+sqroot.cpp:79:16: error: 'tong' does not name a type; did you mean 'long'?
+                tong:=tong+(ord(a[cn-j])-48)*(ord(b[cn-k])-48);
+                ^~~~
+                long
+sqroot.cpp:80:13: error: 'end' does not name a type
+             end;
+             ^~~
+sqroot.cpp:81:10: error: 'c' does not name a type
+          c:=chr(tong mod 10+48)+c;
+          ^
+sqroot.cpp:82:10: error: 'nho' does not name a type
+          nho:=tong div 10;
+          ^~~
+sqroot.cpp:83:7: error: 'end' does not name a type
+       end;
+       ^~~
+sqroot.cpp:84:4: error: expected unqualified-id before 'while'
+    while (length(c)>1) and (c[1]='0') do delete(c,1,1);
+    ^~~~~
+sqroot.cpp:85:8: error: expected constructor, destructor, or type conversion before '(' token
+    exit(c);
+        ^
+sqroot.cpp:86:1: error: 'end' does not name a type
+ end;
+ ^~~
+sqroot.cpp:88:1: error: 'function' does not name a type; did you mean 'union'?
+ function cmp(a,b: sn): longint;
+ ^~~~~~~~
+ union
+sqroot.cpp:89:1: error: 'begin' does not name a type
+ begin
+ ^~~~~
+sqroot.cpp:91:4: error: expected unqualified-id before 'if'
+    if length(a)>length(b) then exit(1);
+    ^~
+sqroot.cpp:92:4: error: expected unqualified-id before 'if'
+    if a=b then exit(0);
+    ^~
+sqroot.cpp:93:4: error: expected unqualified-id before 'if'
+    if a<b then exit(-1);
+    ^~
+sqroot.cpp:94:8: error: expected constructor, destructor, or type conversion before '(' token
+    exit(1);
+        ^
+sqroot.cpp:95:1: error: 'end' does not name a type
+ end;
+ ^~~
+sqroot.cpp:97:1: error: 'procedure' does not name a type
+ procedure r_sqr(x: sn; var y: sn; var ok: boolean);
+ ^~~~~~~~~
+sqroot.cpp:97:24: error: 'var' does not name a type; did you mean 'char'?
+ procedure r_sqr(x: sn; var y: sn; var ok: boolean);
+                        ^~~
+                        char
+sqroot.cpp:97:35: error: 'var' does not name a type; did you mean 'char'?
+ procedure r_sqr(x: sn; var y: sn; var ok: boolean);
+                                   ^~~
+                                   char
+sqroot.cpp:98:1: error: 'var' does not name a type; did you mean 'char'?
+ var d, c, g: sn;
+ ^~~
+ char
+sqroot.cpp:99:1: error: 'begin' does not name a type
+ begin
+ ^~~~~
+sqroot.cpp:100:12: error: 'c' does not name a type
+    d:='1'; c:='2';
+            ^
+sqroot.cpp:101:4: error: expected unqualified-id before 'while'
+    while cmp(mul(c,c),x)<>1 do
+    ^~~~~
+sqroot.cpp:104:10: error: 'c' does not name a type
+          c:=add(c,c);
+          ^
+sqroot.cpp:105:7: error: 'end' does not name a type
+       end;
+       ^~~
+sqroot.cpp:106:4: error: 'repeat' does not name a type
+    repeat
+    ^~~~~~
+sqroot.cpp:108:7: error: expected unqualified-id before 'if'
+       if cmp(mul(g,g),x)=1 then c:=g else d:=g;
+       ^~
+sqroot.cpp:109:4: error: 'until' does not name a type
+    until sub(c,d)='1';
+    ^~~~~
+sqroot.cpp:110:4: error: 'y' does not name a type
+    y:=d;
+    ^
+sqroot.cpp:111:4: error: 'ok' does not name a type
+    ok:=cmp(mul(y,y),x)=0;
+    ^~
+sqroot.cpp:112:1: error: 'end' does not name a type
+ end;
+ ^~~
+sqroot.cpp:114:1: error: 'var' does not name a type; did you mean 'char'?
+ var n, m: sn;
+ ^~~
+ char
+sqroot.cpp:115:7: error: found ':' in nested-name-specifier, expected '::'
+     ok: boolean;
+       ^
+       ::
+sqroot.cpp:115:5: error: 'ok' does not name a type
+     ok: boolean;
+     ^~
+sqroot.cpp:117:1: error: 'BEGIN' does not name a type
+ BEGIN
+ ^~~~~
+sqroot.cpp:118:27: error: expected constructor, destructor, or type conversion before '(' token
+   assign(input,tfi); reset(input);
+                           ^
+sqroot.cpp:119:10: error: expected constructor, destructor, or type conversion before '(' token
+    assign(output,tfo); rewrite(output);
+          ^
+sqroot.cpp:119:31: error: expected constructor, destructor, or type conversion before '(' token
+    assign(output,tfo); rewrite(output);
+                               ^
+sqroot.cpp:120:10: error: expected constructor, destructor, or type conversion before '(' token
+    readln(n);
+          ^
+sqroot.cpp:121:9: error: expected constructor, destructor, or type conversion before '(' token
+    r_sqr(n,m,ok);
+         ^
+sqroot.cpp:122:11: error: expected constructor, destructor, or type conversion before '(' token
+    writeln(m);
+           ^
+sqroot.cpp:123:9: error: expected constructor, destructor, or type conversion before '(' token
+    close(input); close(output);
+         ^
+sqroot.cpp:123:23: error: expected constructor, destructor, or type conversion before '(' token
+    close(input); close(output);
+                       ^
+sqroot.cpp:124:1: error: 'END' does not name a type
+ END.
+ ^~~
+Dịch lỗi!
+

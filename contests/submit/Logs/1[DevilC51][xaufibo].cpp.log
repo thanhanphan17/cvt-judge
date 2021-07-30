@@ -1,0 +1,17 @@
+﻿DevilC51‣xaufibo: 7.00
+xaufibo.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "xaufibo.cpp" -pipe -O2 -s -static -lm -x c++ -o"xaufibo.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom1180\
+Dịch thành công.
+
+DevilC51‣xaufibo‣test01: 1.00
+Thời gian ≈ 0.019330100 giây
+Kết quả khớp đáp án!
+DevilC51‣xaufibo‣test02: 2.00
+Thời gian ≈ 0.017313400 giây
+Kết quả khớp đáp án!
+DevilC51‣xaufibo‣test03: 2.00
+Thời gian ≈ 0.021967600 giây
+Kết quả khớp đáp án!
+DevilC51‣xaufibo‣test04: 2.00
+Thời gian ≈ 0.206036300 giây
+Kết quả khớp đáp án!

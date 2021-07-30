@@ -1,0 +1,20 @@
+﻿thuongdang‣READN: 5.00
+READN.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "READN.cpp" -pipe -O2 -s -static -lm -x c++ -o"READN.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom61899\
+Dịch thành công.
+
+thuongdang‣READN‣Test01: 1.00
+Thời gian ≈ 0.026097700 giây
+Kết quả khớp đáp án!
+thuongdang‣READN‣Test02: 1.00
+Thời gian ≈ 0.029448300 giây
+Kết quả khớp đáp án!
+thuongdang‣READN‣Test03: 1.00
+Thời gian ≈ 0.020904900 giây
+Kết quả khớp đáp án!
+thuongdang‣READN‣Test04: 1.00
+Thời gian ≈ 0.022381800 giây
+Kết quả khớp đáp án!
+thuongdang‣READN‣Test05: 1.00
+Thời gian ≈ 0.037691300 giây
+Kết quả khớp đáp án!

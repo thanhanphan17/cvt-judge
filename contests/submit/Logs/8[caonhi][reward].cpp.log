@@ -1,0 +1,65 @@
+﻿caonhi‣REWARD: 10.00
+REWARD.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "REWARD.cpp" -pipe -O2 -s -static -lm -x c++ -o"REWARD.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom2016\
+Dịch thành công.
+
+caonhi‣REWARD‣Test00: 0.50
+Thời gian ≈ 0.017278900 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test01: 0.50
+Thời gian ≈ 0.014924700 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test02: 0.50
+Thời gian ≈ 0.014541200 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test03: 0.50
+Thời gian ≈ 0.016093600 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test04: 0.50
+Thời gian ≈ 0.014324100 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test05: 0.50
+Thời gian ≈ 0.015040800 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test06: 0.50
+Thời gian ≈ 0.016895100 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test07: 0.50
+Thời gian ≈ 0.020201000 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test08: 0.50
+Thời gian ≈ 0.019568500 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test09: 0.50
+Thời gian ≈ 0.015521700 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test10: 0.50
+Thời gian ≈ 0.015452300 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test11: 0.50
+Thời gian ≈ 0.016848800 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test12: 0.50
+Thời gian ≈ 0.043151300 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test13: 0.50
+Thời gian ≈ 0.023415700 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test14: 0.50
+Thời gian ≈ 0.033406700 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test15: 0.50
+Thời gian ≈ 0.019691400 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test16: 0.50
+Thời gian ≈ 0.033504300 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test17: 0.50
+Thời gian ≈ 0.033637000 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test18: 0.50
+Thời gian ≈ 0.140777600 giây
+Kết quả khớp đáp án!
+caonhi‣REWARD‣Test19: 0.50
+Thời gian ≈ 0.130878400 giây
+Kết quả khớp đáp án!

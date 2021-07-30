@@ -1,0 +1,65 @@
+﻿DevilC51‣REWARD: 10.00
+REWARD.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "REWARD.cpp" -pipe -O2 -s -static -lm -x c++ -o"REWARD.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom1906\
+Dịch thành công.
+
+DevilC51‣REWARD‣Test00: 0.50
+Thời gian ≈ 0.014371500 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test01: 0.50
+Thời gian ≈ 0.016213100 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test02: 0.50
+Thời gian ≈ 0.014939300 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test03: 0.50
+Thời gian ≈ 0.012893900 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test04: 0.50
+Thời gian ≈ 0.013762800 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test05: 0.50
+Thời gian ≈ 0.013843600 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test06: 0.50
+Thời gian ≈ 0.013455300 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test07: 0.50
+Thời gian ≈ 0.013547300 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test08: 0.50
+Thời gian ≈ 0.013325600 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test09: 0.50
+Thời gian ≈ 0.013449100 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test10: 0.50
+Thời gian ≈ 0.016786900 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test11: 0.50
+Thời gian ≈ 0.013922300 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test12: 0.50
+Thời gian ≈ 0.017906000 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test13: 0.50
+Thời gian ≈ 0.017414500 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test14: 0.50
+Thời gian ≈ 0.019029800 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test15: 0.50
+Thời gian ≈ 0.015172800 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test16: 0.50
+Thời gian ≈ 0.015536700 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test17: 0.50
+Thời gian ≈ 0.018002500 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test18: 0.50
+Thời gian ≈ 0.029412100 giây
+Kết quả khớp đáp án!
+DevilC51‣REWARD‣Test19: 0.50
+Thời gian ≈ 0.032460300 giây
+Kết quả khớp đáp án!

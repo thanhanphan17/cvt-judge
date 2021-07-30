@@ -1,0 +1,21 @@
+﻿DevilC51‣BDTONG: 7.00
+BDTONG.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "BDTONG.cpp" -pipe -O2 -s -static -lm -x c++ -o"BDTONG.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom64762\
+BDTONG.cpp: In function 'void Read_Write()':
+BDTONG.cpp:37:15: warning: converting to non-pointer type 'int' from NULL [-Wconversion-null]
+         cnt = NULL;
+               ^~~~
+Dịch thành công.
+
+DevilC51‣BDTONG‣TEST01: 1.00
+Thời gian ≈ 0.014797300 giây
+Kết quả khớp đáp án!
+DevilC51‣BDTONG‣TEST02: 2.00
+Thời gian ≈ 0.014987900 giây
+Kết quả khớp đáp án!
+DevilC51‣BDTONG‣TEST03: 2.00
+Thời gian ≈ 0.015996700 giây
+Kết quả khớp đáp án!
+DevilC51‣BDTONG‣TEST04: 2.00
+Thời gian ≈ 0.014683700 giây
+Kết quả khớp đáp án!

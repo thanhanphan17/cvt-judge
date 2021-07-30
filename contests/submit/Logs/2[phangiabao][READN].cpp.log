@@ -1,0 +1,24 @@
+﻿phangiabao‣READN: 5.00
+READN.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "READN.cpp" -pipe -O2 -s -static -lm -x c++ -o"READN.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom44688\
+READN.cpp: In function 'std::__cxx11::string doc_so(char, int)':
+READN.cpp:29:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+Dịch thành công.
+
+phangiabao‣READN‣Test01: 1.00
+Thời gian ≈ 0.023190400 giây
+Kết quả khớp đáp án!
+phangiabao‣READN‣Test02: 1.00
+Thời gian ≈ 0.030756600 giây
+Kết quả khớp đáp án!
+phangiabao‣READN‣Test03: 1.00
+Thời gian ≈ 0.026026200 giây
+Kết quả khớp đáp án!
+phangiabao‣READN‣Test04: 1.00
+Thời gian ≈ 0.026090900 giây
+Kết quả khớp đáp án!
+phangiabao‣READN‣Test05: 1.00
+Thời gian ≈ 0.023975000 giây
+Kết quả khớp đáp án!

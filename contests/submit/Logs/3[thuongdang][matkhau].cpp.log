@@ -1,0 +1,17 @@
+﻿thuongdang‣MATKHAU: 7.00
+MATKHAU.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "MATKHAU.cpp" -pipe -O2 -s -static -lm -x c++ -o"MATKHAU.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom623\
+Dịch thành công.
+
+thuongdang‣MATKHAU‣TEST01: 1.00
+Thời gian ≈ 0.022183800 giây
+Kết quả khớp đáp án!
+thuongdang‣MATKHAU‣TEST02: 2.00
+Thời gian ≈ 0.019186300 giây
+Kết quả khớp đáp án!
+thuongdang‣MATKHAU‣TEST03: 2.00
+Thời gian ≈ 0.021592000 giây
+Kết quả khớp đáp án!
+thuongdang‣MATKHAU‣TEST04: 2.00
+Thời gian ≈ 0.019081800 giây
+Kết quả khớp đáp án!

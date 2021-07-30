@@ -1,0 +1,17 @@
+﻿phangiabao‣XAUFIBO: 7.00
+XAUFIBO.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "XAUFIBO.cpp" -pipe -O2 -s -static -lm -x c++ -o"XAUFIBO.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom44200\
+Dịch thành công.
+
+phangiabao‣XAUFIBO‣test01: 1.00
+Thời gian ≈ 0.018378700 giây
+Kết quả khớp đáp án!
+phangiabao‣XAUFIBO‣test02: 2.00
+Thời gian ≈ 0.017512000 giây
+Kết quả khớp đáp án!
+phangiabao‣XAUFIBO‣test03: 2.00
+Thời gian ≈ 0.015648100 giây
+Kết quả khớp đáp án!
+phangiabao‣XAUFIBO‣test04: 2.00
+Thời gian ≈ 0.204654400 giây
+Kết quả khớp đáp án!

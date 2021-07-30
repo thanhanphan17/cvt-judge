@@ -1,0 +1,17 @@
+﻿lekhoa‣xaufibo: 7.00
+xaufibo.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "xaufibo.cpp" -pipe -O2 -s -static -lm -x c++ -o"xaufibo.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom39802\
+Dịch thành công.
+
+lekhoa‣xaufibo‣test01: 1.00
+Thời gian ≈ 0.037286900 giây
+Kết quả khớp đáp án!
+lekhoa‣xaufibo‣test02: 2.00
+Thời gian ≈ 0.014065500 giây
+Kết quả khớp đáp án!
+lekhoa‣xaufibo‣test03: 2.00
+Thời gian ≈ 0.013622000 giây
+Kết quả khớp đáp án!
+lekhoa‣xaufibo‣test04: 2.00
+Thời gian ≈ 0.208026000 giây
+Kết quả khớp đáp án!

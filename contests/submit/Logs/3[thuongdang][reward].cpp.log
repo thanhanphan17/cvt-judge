@@ -1,0 +1,65 @@
+﻿thuongdang‣REWARD: 10.00
+REWARD.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "REWARD.cpp" -pipe -O2 -s -static -lm -x c++ -o"REWARD.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom1346\
+Dịch thành công.
+
+thuongdang‣REWARD‣Test00: 0.50
+Thời gian ≈ 0.015950900 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test01: 0.50
+Thời gian ≈ 0.014440700 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test02: 0.50
+Thời gian ≈ 0.013414900 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test03: 0.50
+Thời gian ≈ 0.014590600 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test04: 0.50
+Thời gian ≈ 0.014620700 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test05: 0.50
+Thời gian ≈ 0.014233400 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test06: 0.50
+Thời gian ≈ 0.014022900 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test07: 0.50
+Thời gian ≈ 0.014020700 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test08: 0.50
+Thời gian ≈ 0.013399800 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test09: 0.50
+Thời gian ≈ 0.014662700 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test10: 0.50
+Thời gian ≈ 0.014546700 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test11: 0.50
+Thời gian ≈ 0.013421200 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test12: 0.50
+Thời gian ≈ 0.035557500 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test13: 0.50
+Thời gian ≈ 0.019755700 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test14: 0.50
+Thời gian ≈ 0.029527700 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test15: 0.50
+Thời gian ≈ 0.017755200 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test16: 0.50
+Thời gian ≈ 0.027696400 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test17: 0.50
+Thời gian ≈ 0.032831200 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test18: 0.50
+Thời gian ≈ 0.113651300 giây
+Kết quả khớp đáp án!
+thuongdang‣REWARD‣Test19: 0.50
+Thời gian ≈ 0.113948400 giây
+Kết quả khớp đáp án!

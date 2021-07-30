@@ -1,0 +1,35 @@
+﻿phangiabao‣sqroot: 10.00
+sqroot.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "sqroot.cpp" -pipe -O2 -s -static -lm -x c++ -o"sqroot.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom21234\
+Dịch thành công.
+
+phangiabao‣sqroot‣Test01: 1.00
+Thời gian ≈ 0.026957700 giây
+Kết quả khớp đáp án!
+phangiabao‣sqroot‣Test02: 1.00
+Thời gian ≈ 0.022952500 giây
+Kết quả khớp đáp án!
+phangiabao‣sqroot‣Test03: 1.00
+Thời gian ≈ 0.031850200 giây
+Kết quả khớp đáp án!
+phangiabao‣sqroot‣Test04: 1.00
+Thời gian ≈ 0.029554300 giây
+Kết quả khớp đáp án!
+phangiabao‣sqroot‣Test05: 1.00
+Thời gian ≈ 0.024071400 giây
+Kết quả khớp đáp án!
+phangiabao‣sqroot‣Test06: 1.00
+Thời gian ≈ 0.092347400 giây
+Kết quả khớp đáp án!
+phangiabao‣sqroot‣Test07: 1.00
+Thời gian ≈ 0.055113000 giây
+Kết quả khớp đáp án!
+phangiabao‣sqroot‣Test08: 1.00
+Thời gian ≈ 0.050266800 giây
+Kết quả khớp đáp án!
+phangiabao‣sqroot‣Test09: 1.00
+Thời gian ≈ 0.099845500 giây
+Kết quả khớp đáp án!
+phangiabao‣sqroot‣Test10: 1.00
+Thời gian ≈ 0.125153300 giây
+Kết quả khớp đáp án!

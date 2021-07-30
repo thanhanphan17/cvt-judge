@@ -1,0 +1,17 @@
+﻿phangiabao‣BDTONG: 7.00
+BDTONG.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "BDTONG.cpp" -pipe -O2 -s -static -lm -x c++ -o"BDTONG.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom43035\
+Dịch thành công.
+
+phangiabao‣BDTONG‣TEST01: 1.00
+Thời gian ≈ 0.018668100 giây
+Kết quả khớp đáp án!
+phangiabao‣BDTONG‣TEST02: 2.00
+Thời gian ≈ 0.019921500 giây
+Kết quả khớp đáp án!
+phangiabao‣BDTONG‣TEST03: 2.00
+Thời gian ≈ 0.015932500 giây
+Kết quả khớp đáp án!
+phangiabao‣BDTONG‣TEST04: 2.00
+Thời gian ≈ 0.018111900 giây
+Kết quả khớp đáp án!

@@ -1,0 +1,35 @@
+﻿ruylian‣AROWMAX: 4.00
+AROWMAX.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "AROWMAX.cpp" -pipe -O2 -s -static -lm -x c++ -o"AROWMAX.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom43503\
+Dịch thành công.
+
+ruylian‣AROWMAX‣Test01: 1.00
+Thời gian ≈ 0.032634600 giây
+Kết quả khớp đáp án!
+ruylian‣AROWMAX‣Test02: 1.00
+Thời gian ≈ 0.023132200 giây
+Kết quả khớp đáp án!
+ruylian‣AROWMAX‣Test03: 1.00
+Thời gian ≈ 0.029627000 giây
+Kết quả khớp đáp án!
+ruylian‣AROWMAX‣Test04: 1.00
+Thời gian ≈ 0.026813500 giây
+Kết quả khớp đáp án!
+ruylian‣AROWMAX‣Test05: 0.00
+Thời gian ≈ 0.030075000 giây
+Kết quả KHÁC đáp án!
+ruylian‣AROWMAX‣Test06: 0.00
+Thời gian ≈ 0.031653000 giây
+Kết quả KHÁC đáp án!
+ruylian‣AROWMAX‣Test07: 0.00
+Thời gian ≈ 0.031898300 giây
+Kết quả KHÁC đáp án!
+ruylian‣AROWMAX‣Test08: 0.00
+Thời gian ≈ 0.032715500 giây
+Kết quả KHÁC đáp án!
+ruylian‣AROWMAX‣Test09: 0.00
+Thời gian ≈ 0.022170400 giây
+Kết quả KHÁC đáp án!
+ruylian‣AROWMAX‣Test10: 0.00
+Thời gian ≈ 0.032163800 giây
+Kết quả KHÁC đáp án!

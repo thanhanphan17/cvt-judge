@@ -1,0 +1,35 @@
+﻿unnamed‣SQROOT: 10.00
+SQROOT.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "SQROOT.cpp" -pipe -O2 -s -static -lm -x c++ -o"SQROOT.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom1527\
+Dịch thành công.
+
+unnamed‣SQROOT‣Test01: 1.00
+Thời gian ≈ 0.024187500 giây
+Kết quả khớp đáp án!
+unnamed‣SQROOT‣Test02: 1.00
+Thời gian ≈ 0.023517400 giây
+Kết quả khớp đáp án!
+unnamed‣SQROOT‣Test03: 1.00
+Thời gian ≈ 0.021618200 giây
+Kết quả khớp đáp án!
+unnamed‣SQROOT‣Test04: 1.00
+Thời gian ≈ 0.022905200 giây
+Kết quả khớp đáp án!
+unnamed‣SQROOT‣Test05: 1.00
+Thời gian ≈ 0.029033100 giây
+Kết quả khớp đáp án!
+unnamed‣SQROOT‣Test06: 1.00
+Thời gian ≈ 0.196777200 giây
+Kết quả khớp đáp án!
+unnamed‣SQROOT‣Test07: 1.00
+Thời gian ≈ 0.121169300 giây
+Kết quả khớp đáp án!
+unnamed‣SQROOT‣Test08: 1.00
+Thời gian ≈ 0.067976800 giây
+Kết quả khớp đáp án!
+unnamed‣SQROOT‣Test09: 1.00
+Thời gian ≈ 0.189011300 giây
+Kết quả khớp đáp án!
+unnamed‣SQROOT‣Test10: 1.00
+Thời gian ≈ 0.193863600 giây
+Kết quả khớp đáp án!

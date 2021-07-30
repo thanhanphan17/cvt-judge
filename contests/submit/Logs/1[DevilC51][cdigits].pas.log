@@ -1,0 +1,43 @@
+﻿DevilC51‣cdigits: 10.00
+cdigits.pas
+"C:\Program Files (x86)\Themis\fpc\bin\i386-win32\fpc.exe" -o"cdigits.exe" -O2 -XS -Sg -Cs66060288 "cdigits.pas"|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom57003\
+Free Pascal Compiler version 3.0.4 [2017/10/06] for i386
+Copyright (c) 1993-2017 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling cdigits.pas
+cdigits.pas(14,5) Note: Local variable "code" is assigned but never used
+Linking cdigits.exe
+87 lines compiled, 0.2 sec, 28928 bytes code, 1268 bytes data
+1 note(s) issued
+Dịch thành công.
+
+DevilC51‣cdigits‣Test01: 1.00
+Thời gian ≈ 0.109653200 giây
+Kết quả khớp đáp án!
+DevilC51‣cdigits‣Test02: 1.00
+Thời gian ≈ 0.066630100 giây
+Kết quả khớp đáp án!
+DevilC51‣cdigits‣Test03: 1.00
+Thời gian ≈ 0.081775000 giây
+Kết quả khớp đáp án!
+DevilC51‣cdigits‣Test04: 1.00
+Thời gian ≈ 0.079284400 giây
+Kết quả khớp đáp án!
+DevilC51‣cdigits‣Test05: 1.00
+Thời gian ≈ 0.089613800 giây
+Kết quả khớp đáp án!
+DevilC51‣cdigits‣Test06: 1.00
+Thời gian ≈ 0.091223400 giây
+Kết quả khớp đáp án!
+DevilC51‣cdigits‣Test07: 1.00
+Thời gian ≈ 0.080243800 giây
+Kết quả khớp đáp án!
+DevilC51‣cdigits‣Test08: 1.00
+Thời gian ≈ 0.081561200 giây
+Kết quả khớp đáp án!
+DevilC51‣cdigits‣Test09: 1.00
+Thời gian ≈ 0.082409800 giây
+Kết quả khớp đáp án!
+DevilC51‣cdigits‣Test10: 1.00
+Thời gian ≈ 0.081236500 giây
+Kết quả khớp đáp án!

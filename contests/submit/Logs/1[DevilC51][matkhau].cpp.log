@@ -1,0 +1,17 @@
+﻿DevilC51‣matkhau: 7.00
+matkhau.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "matkhau.cpp" -pipe -O2 -s -static -lm -x c++ -o"matkhau.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom51554\
+Dịch thành công.
+
+DevilC51‣matkhau‣TEST01: 1.00
+Thời gian ≈ 0.015751600 giây
+Kết quả khớp đáp án!
+DevilC51‣matkhau‣TEST02: 2.00
+Thời gian ≈ 0.017840700 giây
+Kết quả khớp đáp án!
+DevilC51‣matkhau‣TEST03: 2.00
+Thời gian ≈ 0.016586300 giây
+Kết quả khớp đáp án!
+DevilC51‣matkhau‣TEST04: 2.00
+Thời gian ≈ 0.016590500 giây
+Kết quả khớp đáp án!
